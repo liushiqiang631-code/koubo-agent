@@ -1,0 +1,17 @@
+node_modules/
+frontend/dist/
+server/data/
+*.log
+.env
+
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+*.pem
+*.key
+.DS_Store
